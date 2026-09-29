@@ -27,9 +27,15 @@ Controle financeiro da família em que o lançamento acontece pelo WhatsApp: a p
 Renda alta, e no fim do mês sobravam R$ 239. A partir de 20 faturas de cartão, a análise mostra para onde ia o dinheiro e monta um plano que junta R$ 55 mil em seis meses — sem nenhum mês negativo, mesmo com uma queda de renda prevista. *Nomes alterados para preservar a privacidade.*  
 [📊 Painel](https://leonardo-informacao.github.io/analise-financas-familiares/relatorios/painel_nosso_plano_quanto_gastar_quanto_sobra_e_se_e_possivel.html) · [📄 Relatório](https://leonardo-informacao.github.io/analise-financas-familiares/relatorios/analise.html)
 
+<a href="https://leonardo-informacao.github.io/analise-financas-familiares/relatorios/painel_nosso_plano_quanto_gastar_quanto_sobra_e_se_e_possivel.html"><img src="assets/financas_painel.png" alt="Painel da análise financeira: quanto gastar, quanto sobra e se é possível" width="640"></a>
+
+
 **[Pontualidade dos voos entre capitais](https://github.com/leonardo-informacao/pontualidade-voos-brasil)**  
 Em qual companhia e em que horário viajar para chegar na hora? Análise dos dados públicos de voos do Brasil.  
 [📊 Painel](https://leonardo-informacao.github.io/pontualidade-voos-brasil/relatorios/painel_pontualidade.html) · [📄 Relatório](https://leonardo-informacao.github.io/pontualidade-voos-brasil/relatorios/analise.html)
+
+<a href="https://leonardo-informacao.github.io/pontualidade-voos-brasil/relatorios/painel_pontualidade.html"><img src="assets/voos_painel.png" alt="Painel de pontualidade dos voos entre capitais" width="640"></a>
+
 
 ---
 
